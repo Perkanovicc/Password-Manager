@@ -8,7 +8,7 @@ How It Works
 ------------
 
 1. **First Launch:**
-   - The app will ask you to set a *master password*.
+   - The app will ask you to enter a *master password*.
    - Master password is "Test123".
    - This master password is used to unlock your vault and must be remembered — without it, you cannot access your saved passwords.
 
