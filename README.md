@@ -33,6 +33,7 @@ cd Password-Manager
 
 ```
 pip install cryptography
+pip install customtkinter
 ```
 
 3. **Run the Application:**
