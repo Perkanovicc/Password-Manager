@@ -2,6 +2,8 @@ from doctest import master
 from os.path import expanduser
 import tkinter
 import os
+from cryptography.fernet import Fernet
+import customtkinter
 key_file_path = 'encryption_key.key'
 
 def generate_key():
@@ -19,8 +21,7 @@ def ucitaj_kljuc():
         key = generate_key()
     return key
 
-from cryptography.fernet import Fernet
-import customtkinter
+
 MASTERPW="Test123"
 
 def center_window(window, width, height):
