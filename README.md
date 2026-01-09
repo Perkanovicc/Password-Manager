@@ -39,7 +39,7 @@ pip install customtkinter
 3. **Run the Application:**
 
 ```
-python main.py
+python pwmg.py
 ```
 
 > If you don’t have Python installed, you can create a `.exe` file using PyInstaller (contact the author for help if needed).
