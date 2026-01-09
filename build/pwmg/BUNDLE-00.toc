@@ -1,3 +1,0 @@
-([('pwmg',
-   '/Users/lukaperovic/PycharmProjects/Password Manager/dist/pwmg',
-   'EXECUTABLE')],)
